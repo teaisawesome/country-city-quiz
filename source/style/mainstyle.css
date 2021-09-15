@@ -1,0 +1,20 @@
+/* Style for index.html landing page */
+body {
+  background-image: url("../assets/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: whitesmoke;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+.col-md-12 {
+  background-color: rgba(200, 200, 200, 0.3);
+  margin-top: 20vh;
+  height: 60vh;
+  text-align: center;
+}
